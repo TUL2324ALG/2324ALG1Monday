@@ -1,4 +1,4 @@
-package week01_introduction;
+package assignments01_introduction;
 
 public class HelloWorld {
 
