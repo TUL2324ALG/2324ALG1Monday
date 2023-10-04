@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package assignments02_numbers;
 
-/**
- *
- * @author Vitvarova-J-31c9
- */
 public class SpeedLimit {
 
     public static void main(String[] args) {
