@@ -17,6 +17,8 @@ public class RealNumberImperfection {
         double a = 5.6;
         double b = 5.8;
         System.out.println(a+b);
+        
+        System.out.println(Integer.MAX_VALUE); //2 147 483 647
     }
     
 }
