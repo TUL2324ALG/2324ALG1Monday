@@ -1,6 +1,6 @@
 package assignments03_branching_loops;
 
-public class CirclePointPos {
+public class U03CirclePointPos {
 
     public static void main(String[] args) {
         //input

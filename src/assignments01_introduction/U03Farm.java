@@ -8,7 +8,7 @@ package assignments01_introduction;
  *
  * @author Vitvarova-J-31c9
  */
-public class Farm {
+public class U03Farm {
     public static void main(String[] args) {
         //input
         int pocetHus = 5;

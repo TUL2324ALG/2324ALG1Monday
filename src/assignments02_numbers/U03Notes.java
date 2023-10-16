@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author Vitvarova-J-31c9
  */
-public class Notes {
+public class U03Notes {
 
     /**
      * @param args the command line arguments

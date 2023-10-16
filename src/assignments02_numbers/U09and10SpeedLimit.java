@@ -2,7 +2,7 @@ package assignments02_numbers;
 
 import java.util.Scanner;
 
-public class SpeedLimit {
+public class U09and10SpeedLimit {
 
    public static void main(String[] args) {
        double distanceKm = 50;

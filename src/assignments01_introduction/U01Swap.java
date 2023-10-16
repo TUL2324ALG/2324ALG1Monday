@@ -1,6 +1,6 @@
 package assignments01_introduction;
 
-public class Swap {
+public class U01Swap {
 
     public static void main(String[] args) {
         int a = 34, b = 89;        

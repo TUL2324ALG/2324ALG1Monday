@@ -5,7 +5,7 @@ import java.util.Scanner;
  * 
  * Test: 780123, 3540
  */
-public class BirthNumber {
+public class U15BirthNumber {
 
     public static void main(String[] args) {
         String first;  //051011
