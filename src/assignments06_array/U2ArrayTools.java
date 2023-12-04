@@ -123,7 +123,7 @@ public class U2ArrayTools {
     }
     
     public static int[] fill1ToN (int n){
-        
+        return null;
     }
     
     public static void fisherYates(int[] a){
