@@ -2,7 +2,7 @@ package assignments07_2darray;
 
 import java.util.Scanner;
 //Test 2 3 1 2 3 4 5 6
-public class U2NormProgram {
+public class U2NormMatrixProgramCombi {
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
         //in
