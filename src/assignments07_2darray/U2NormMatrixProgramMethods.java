@@ -36,7 +36,14 @@ public class U2NormMatrixProgramMethods {
             System.out.println("");
         }
     }
-    
+      public static void printMatrix(int[][] matrix){
+        for (int i = 0; i < matrix.length; i++){
+            for(int j = 0; j < matrix[i].length; j++){
+                System.out.format("%3d ", matrix[i][j]);
+            }
+            System.out.println("");
+        }
+    }
     private static double[][] normMatrix(double[][] a) {
         double maxAbs = maxAbs(a);
         double[][] normA = new double[a.length][a[0].length];
